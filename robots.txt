@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://almarse.com/sitemap.xml
