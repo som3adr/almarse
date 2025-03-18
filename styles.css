@@ -1,22 +1,18 @@
-/* ... (modern CSS with Flexbox/Grid, animations, responsive design) ... */
-/* Example: */
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    font-family: sans-serif;
-}
-header, nav, section, footer {
+/* ... (modern CSS, responsive design, animations) ... */
+
+footer {
+    text-align: center;
     padding: 20px;
 }
-nav a {
-    transition: color 0.3s ease;
+
+.social-icons {
+    margin-bottom: 10px;
 }
-nav a:hover {
-    color: #00a0e9;
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
 }
-#language-selector{
-    display: flex;
-    justify-content: center;
-}
+
 /* ... (responsive design, animations) ... */
